@@ -1,0 +1,101 @@
+
+.dash1{
+    border: "2px solid white";
+    background-color: #f03b74;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+
+.dash2{
+    border: "2px solid white";
+    background-color: #5c3541;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.dash3{
+    border: "2px solid white";
+    background-color: #216962;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.dash4{
+    border: "2px solid white";
+    background-color: #878d32;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.dash5{
+    border: "2px solid white";
+    background-color: #713fc1;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.dash6{
+    border: "2px solid white";
+    background-color: #953087;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.dash7{
+    border: "2px solid white";
+    background-color:  #953087 ;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.dash8{
+    border: "2px solid white";
+    background-color:  #214a25;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.dash9{
+    border: "2px solid white";
+    background-color: #713fc1;;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none !important;
+}
+.dash1:hover{
+    background-color: rgb(84, 67, 182);
+
+}
+.dash2:hover{
+    background-color: rgb(84, 67, 182);
+
+}
+.dash3:hover{
+    background-color: rgb(84, 67, 182);
+
+}
+.dash4:hover{
+    background-color: rgb(84, 67, 182);
+
+}
+.dash5:hover{
+    background-color: rgb(84, 67, 182);
+
+}
+.dash6:hover{
+    background-color: rgb(84, 67, 182);
+
+}
+.dash7:hover{
+    background-color: rgb(84, 67, 182);
+
+}
+.dash8:hover{
+    background-color: rgb(84, 67, 182);
+
+}
+.dash9:hover{
+    background-color: rgb(84, 67, 182);
+
+}

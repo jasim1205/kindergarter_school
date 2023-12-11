@@ -1,0 +1,13 @@
+/* Add responsive styles */
+@media (max-width: 768px) {
+  .col-sm-2 {
+    display: none; /* Hide the sidebar on smaller screens */
+  }
+}
+
+@media (min-width: 768px) {
+  .col-sm-2 {
+    /* Customize styles for larger screens, e.g., adjust width */
+    width: 200px;
+  }
+}
